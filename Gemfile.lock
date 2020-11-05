@@ -371,7 +371,7 @@ GEM
       spree_api (= 4.1.11)
       spree_core (= 4.1.11)
       turbolinks (~> 5.2.0)
-    spree_gateway (3.9.0)
+    spree_gateway (3.9.1)
       deface
       spree_core (>= 3.7.0, < 5.0)
       spree_extension
@@ -416,7 +416,7 @@ GEM
     unf_ext (0.0.7.7)
     warden (1.2.9)
       rack (>= 2.0.9)
-    web-console (4.0.4)
+    web-console (4.1.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
@@ -442,6 +442,7 @@ PLATFORMS
 DEPENDENCIES
   bcrypt_pbkdf
   bootsnap (>= 1.4.2)
+  bundler
   byebug
   capistrano (~> 3.10)
   capistrano-db-tasks

@@ -50,6 +50,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'ed25519'
   gem 'bcrypt_pbkdf'
+  gem 'bundler'
 end
 
 group :test do
