@@ -14,7 +14,7 @@
 # gem 'pg'
 #
 development:
-  adapter: <%= raise ENV['RDS_ADAPTER'] %>
+  adapter: <%= ENV['RDS_ADAPTER'] %>
   database: <%= ENV['RDS_DATABASE'] %>
   username: <%= ENV['RDS_USERNAME'] %>
   password: <%= ENV['RDS_PASSWORD'] %>
