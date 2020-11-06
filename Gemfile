@@ -34,9 +34,8 @@ gem 'autoprefixer-rails'
 # gem 'execjs'
 gem 'mini_racer'
 
-
-gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary', '~> 1.16.0'
+gem 'dotenv-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -44,10 +43,6 @@ group :development, :test do
 end
 
 group :development do
-
-
-
-
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.2'
   gem 'spring'
