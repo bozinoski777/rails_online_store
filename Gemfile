@@ -48,7 +48,9 @@ group :development do
   gem 'listen', '~> 3.2'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-
+  gem 'ed25519'
+  gem 'bcrypt_pbkdf'
+  gem 'bundler'
 end
 
 group :test do
