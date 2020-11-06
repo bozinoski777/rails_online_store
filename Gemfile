@@ -30,6 +30,10 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'spree', '~> 4.1'
 gem 'spree_auth_devise', '~> 4.2'
 gem 'spree_gateway', '~> 3.9'
+gem 'autoprefixer-rails'
+# gem 'execjs'
+gem 'mini_racer'
+
 
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary', '~> 1.16.0'
@@ -40,10 +44,10 @@ group :development, :test do
 end
 
 group :development do
-  gem 'capistrano', '~> 3.10', require: false
-  gem 'capistrano-rails', '~> 1.5', require: false
-  gem 'capistrano-rbenv', '~> 2.1'
-  gem 'capistrano-db-tasks', require: false
+
+
+
+
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.2'
   gem 'spring'
