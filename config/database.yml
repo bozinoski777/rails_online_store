@@ -14,11 +14,11 @@
 # gem 'pg'
 #
 development:
-  adapter: ENV["RDS_ADAPTER"]
-  database: ENV["RDS_DATABASE"]
-  username: ENV["RDS_USERNAME"]
-  password: ENV["RDS_PASSWORD"]
-  host: ENV["RDS_HOST"]
+  adapter: <%= ENV["RDS_ADAPTER"] %>
+  database: <%= ENV["RDS_DATABASE"] %>
+  username: <%= ENV["RDS_USERNAME"] %>
+  password: <%= ENV["RDS_PASSWORD"] %>
+  host: <%= ENV["RDS_HOST"] %>
   port: 5432
 
   # Schema search path. The server defaults to $user,public
@@ -42,11 +42,11 @@ test:
   password:
 
 production:
-  adapter: ENV["RDS_ADAPTER"]
-  database: ENV["RDS_DATABASE"]
-  username: ENV["RDS_USERNAME"]
-  password: ENV["RDS_PASSWORD"]
-  host: ENV["RDS_HOST"]
+  adapter: <%= ENV["RDS_ADAPTER"] %>
+  database: <%= ENV["RDS_DATABASE"] %>
+  username: <%= ENV["RDS_USERNAME"] %>
+  password: <%= ENV["RDS_PASSWORD"] %>
+  host: <%= ENV["RDS_HOST"] %>
   port: 5432
 
 
