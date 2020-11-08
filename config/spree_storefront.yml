@@ -25,7 +25,7 @@ default:
           title: Neue Modelle
           url: http://localhost:3000/products/katzensessel-weide-katzenkorb-aus-heller-weide
           image: 'meganav/promo_banner_right-first-category.jpg'
-    - title: Brotkörbe
+    - title: Naturzäune
       subtitle: Categories
       url: /t/Brotkoerbe
       items:
@@ -46,7 +46,7 @@ default:
           title: Get up to 30% off
           url: /t/special-offers/30-off
           image: 'meganav/promo_banner_right-second-category.jpg'
-    - title: Sportswear
+    - title: Gartengestaltung
       subtitle: Categories
       url: /t/sportswear
       items:
