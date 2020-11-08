@@ -1,46 +1,46 @@
 default:
   navigation:
-    - title: Women
+    - title: Körbe
       subtitle: Categories
-      url: /t/women
+      url: /t/koerbe
       items:
-        - :title: Skirts
-          :url: /t/women/skirts
-        - :title: Dresses
-          :url: /t/women/dresses
-        - :title: Shirts and Blouses
-          :url: /t/women/shirts-and-blouses
-        - :title: Sweaters
-          :url: /t/women/sweaters
-        - :title: Tops and T-shirts
-          :url: /t/women/tops-and-t-shirts
-        - :title: Jackets and Coats
-          :url: /t/women/jackets-and-coats
+        - :title: Hundekörbe
+          :url: /t/koerbe/hundekoerbe
+        - :title: Katzenkörbe
+          :url: /t/koerbe/katzenkoerbe
+        - :title: Kaminholzkörbe
+          :url: /t/koerbe/kaminholzkoerbe
+        - :title: Erntekörbe
+          :url: /t/koerbe/erntekoerbe
+        - :title: Wäschekörbe
+          :url: /t/koerbe/waeschekoerbe
+        - :title: Serviertabletts
+          :url: /t/koerbe/serviertabletts
       promo_banners:
-        - subtitle: New collection
-          title: Summer 2019
-          url: /t/new-collection/summer-2019
+        - subtitle: Erntekörbe
+          title: 10% Billiger
+          url: /products/einkaufskorb-weide-hell-oval-henkel-40-x-26-x-25-42
           image: 'meganav/promo_banner_left-first-category.jpg'
-        - subtitle: Special Offers
-          title: Get up to 30% off
-          url: /t/special-offers/30-off
+        - subtitle: Katzenkörbe
+          title: Neue Modelle
+          url: http://localhost:3000/products/katzensessel-weide-katzenkorb-aus-heller-weide
           image: 'meganav/promo_banner_right-first-category.jpg'
-    - title: Men
+    - title: Brotkörbe
       subtitle: Categories
-      url: /t/men
+      url: /t/Brotkoerbe
       items:
         - :title: Shirts
-          :url: /t/men/shirts
+          :url: /t/Brotkoerbe/shirts
         - :title: T-shirts
-          :url: /t/men/t-shirts
+          :url: /t/Brotkoerbe/t-shirts
         - :title: Sweaters
-          :url: /t/men/sweaters
+          :url: /t/Brotkoerbe/sweaters
         - :title: Jackets and Coats
-          :url: /t/men/jackets-and-coats
+          :url: /t/Brotkoerbe/jackets-and-coats
       promo_banners:
-        - subtitle: New collection
-          title: Summer 2019
-          url: /t/new-collection/summer-2019
+        - subtitle: Neue Modelle
+          title: 10% Billiger
+          url: /products/einkaufskorb-weide-hell-oval-henkel-40-x-26-x-25-42
           image: 'meganav/promo_banner_left-second-category.jpg'
         - subtitle: Special Offers
           title: Get up to 30% off
