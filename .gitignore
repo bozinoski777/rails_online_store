@@ -35,4 +35,5 @@
 yarn-debug.log*
 .yarn-integrity
 .env*
-apple.pem
+config/database.yml
+/config/database.yml
