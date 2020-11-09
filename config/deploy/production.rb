@@ -8,6 +8,11 @@
 # server "db.example.com", user: "deploy", roles: %w{db}
 
 server '18.194.59.240', user: 'deploy', roles: %w{app db web}
+set :ssh_options, {
+  forward_agent: true,
+  auth_methods: ["publickey"],
+  keys: ["#{Dir.home}/mandarine.pem"]
+}
 
 
 # role-based syntax
