@@ -9,7 +9,7 @@ set :repo_url, "git@github.com:bozinoski777/rails_online_store.git"
 
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, "/home/deploy/#{fetch :application}"
-
+load 'lib/capistrano/tasks/seed.rb'
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
 
