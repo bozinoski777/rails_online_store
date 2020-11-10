@@ -188,7 +188,7 @@ GEM
       kaminari-core (= 1.2.1)
     kaminari-core (1.2.1)
     libv8 (8.4.255.0)
-    listen (3.2.1)
+    listen (3.3.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     loofah (2.7.0)
@@ -374,7 +374,7 @@ GEM
       spree_api (= 4.1.11)
       spree_core (= 4.1.11)
       turbolinks (~> 5.2.0)
-    spree_gateway (3.9.1)
+    spree_gateway (3.9.2)
       deface
       spree_core (>= 3.7.0, < 5.0)
       spree_extension
@@ -412,7 +412,7 @@ GEM
       camertron-eprun
       cldr-plurals-runtime-rb (~> 1.0)
       tzinfo
-    tzinfo (1.2.7)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
@@ -466,7 +466,7 @@ DEPENDENCIES
   selenium-webdriver
   spree (~> 4.1)
   spree_auth_devise (~> 4.2)
-  spree_gateway (~> 3.9)
+  spree_gateway (~> 3.9.2)
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)

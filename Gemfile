@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'spree', '~> 4.1'
 gem 'spree_auth_devise', '~> 4.2'
-gem 'spree_gateway', '~> 3.9'
+gem 'spree_gateway', '~> 3.9.2'
 gem 'autoprefixer-rails'
 # gem 'execjs'
 gem 'mini_racer'
