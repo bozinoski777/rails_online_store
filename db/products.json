@@ -664,69 +664,70 @@
          "price":"32.90 €",
          "weight":"3.00 kg"
       },
+      // ZAEUNE
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
+         "name":"Spanische Wand, Weidenzaun mit Bogen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/wsw_spanische-wand-_6_2.jpg",
+         "link":"https://www.naturgeflechte24.de/spanische-wand-weide/",
+         "description":"Breite: 60 cm x Höhe: 120 cm\nBreite: 60 cm x Höhe: 180 cm\nGesamthöhe inkl. Rundbogen oben und Überstand unten: plus ca. 60 cm",
+         "price":" 37.05 €",
+         "weight":""
+      },
+      {
+         "name":"Weidenenzaun CIRCO Elegant, waagrecht geflochten, umlaufender Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2013/03/weidenzaun-circo-elegant.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-circo-rankzaun/",
+         "description":"90 x 180 cm\n180 x 180 cm\nRahmen: Kiefer lasiert 6 cm breit, 3 cm dick\nMit Rankgitter: 180 x 180 cm",
+         "price":"75.05 €",
+         "weight":""
+      },
+      {
+         "name":"Weidenzaun BALDO Klassik, waagrecht geflochten, ohne Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/baldo_wkl_weidenzaun_klassik_1__13.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-klassik/",
+         "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 180 x 90 | 180 x 120 cm",
+         "price":"33.25 €",
+         "weight":""
+      },
+      {
+         "name":"Weidenzaun BALDO Natur, waagrecht geflochten, ohne Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/weidenzaun-baldo-natur-11.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-natur/",
+         "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 100 x 120 | 180 x 90 | 180 x 120 cm",
+         "price":"37.05 €",
+         "weight":""
+      },
+      {
+         "name":"Weidenzaun BALDO Stabil, waagrecht geflochten, ohne Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2020/01/weidenzaun_stabil_garten-1.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-stabil-waagrecht-geflochten-ohne-rahmen/",
+         "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 100 x 120 | 180 x 90 | 180 x 120 cm",
+         "price":"42.75 €",
+         "weight":""
+      },
+      {
+         "name":"Rankzaun Weide, CIRCO Elegant, mit Rahmen und Rankgitter",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/circo_wrzi_weidenzaun_elegant_rank_5__13.jpg",
+         "link":"https://www.naturgeflechte24.de/rankzaun-weide-180180/",
+         "description":"Material: Naturweide\nRahmenholz: Kiefer, lasiert\nRahmendicke 6×3 cm\nBreite: 180 cm\nHöhe: 180 cm",
+         "price":"151.05 €",
+         "weight":"19 kg"
+      },
+      {
+         "name":"Weidenzaun LATO Solid, mit seitlichem Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/lato_wso_weidenzaun_solid2_23.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-lato-solid/",
+         "description":"Breite:   90 cm x Höhe: 180 cm\nBreite: 100 cm x Höhe: 100 cm\nBreite: 120 cm x Höhen: 100 cm, 140 cm, 180 cm, 200 cm\nBreite: 180 cm x Höhe: 180 cm",
+         "price":"46.55 €",
          "weight":" kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Weidenzaun LATO Standard, mit seitlichem Rahmen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/lato_wst_weidenzaun_standard2_13.jpg",
+         "link":"https://www.naturgeflechte24.de/weidenzaun-lato-standard/",
+         "description":"Breite:   90 cm x Höhe: 180 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite: 180 cm x Höhe: 180 cm",
+         "price":"46.55 €",
+         "weight":""
       },
       {
          "name":"",
