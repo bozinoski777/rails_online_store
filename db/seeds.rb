@@ -9,6 +9,11 @@
 # Spree::Core::Engine.load_seed if defined?(Spree::Core)
 # Spree::Auth::Engine.load_seed if defined?(Spree::Auth)
 
+products = Spree::Taxonomy.find_or_create_by(name:'Produkte')
+korbe = Spree::Taxon.find_or_create_by(name:'Körbe', parent: products)
+zaune = Spree::Taxon.find_or_create_by(name:'Naturzäune', parent: products)
+garten = Spree::Taxon.find_or_create_by(name:'Gartengestaltung', parent: products)
+Spree::Taxon.find_or_create_by(name: "Weide", parent: zaune)
 
 # Spree::Product.all.each do |product|
 #  p product
