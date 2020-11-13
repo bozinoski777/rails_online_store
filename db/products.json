@@ -729,6 +729,7 @@
          "price":"46.55 €",
          "weight":""
       },
+      // Haselnusszaun
       {
          "name":"Haselnusszaun BALDO Stabil, waagrecht geflochten, ohne Rahmen",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/baldo_hst_haselnusszaun_stabil_2__1_43.jpg",
@@ -761,6 +762,7 @@
          "price":"27.55 €",
          "weight":""
       },
+      // Robinenzaun
       {
          "name":"Robinienzaun BALDO Stabil – ohne Rahmen, waagrecht geflochten",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/robinienzaun-baldo-stabil-6.jpg",
@@ -785,6 +787,7 @@
          "price":"84.55 €",
          "weight":""
       },
+      // Laerchenzaun
       {
          "name":"Lärchenzaun diagonal, blickdicht, Sichtschutz Lärche",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/laerchenzaun-blickdicht.jpg",
@@ -803,124 +806,109 @@
       },
       // Gartengestaltung
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Balkonhochbeet Kiefer/Weide mit Deckel, 40 x 100 x 80",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/balk-hb_balkonhochbeet-40x80x100-_3_3.jpg",
+         "link":"https://www.naturgeflechte24.de/balkonhochbeet-holz-80/",
+         "description":"Material: lasiertes Kiefernholz mit eingeflochtener Weide\nDeckelfenster aus Stegdoppelplatten\nmit Vlies ausgekleidet",
+         "price":"71.25 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Balkonhochbeet Lärche doppelt inkl. 6 Einsätze, 100x69x80 cm",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/balkonhochbeet-laerche-2.jpg",
+         "link":"https://www.naturgeflechte24.de/balkonhochbeet-laerche-100/",
+         "description":"Länge: 100 cm\nBreite: 69 cm\nHöhe: 80 cm",
+         "price":"142.41 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Balkonhochbeet Lärche inkl. Einsätze, 100 x 37 x 80 cm",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2019/09/pflanztreppe_laerche_pt-l-2er-1-1.jpg",
+         "link":"https://www.naturgeflechte24.de/balkonhochbeet-laerche-inkl-einsaetze-100-x-37-x-80-cm/",
+         "description":"100 x 37 x 80 cm",
+         "price":"99.00 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Pflanztreppe Lärche, 2 oder 3 Etagen",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/hochb-12012030_niederbeet_weide-_5_3.jpg",
+         "link":"https://www.naturgeflechte24.de/pflanztreppe-laerche-2-oder-3-etagen/",
+         "description":"Länge: 110 cm\nBreite: 114 cm\nHöhe: 63 cm",
+         "price":"79.90 €",
+         "weight":""
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Beetkasten Kiefer/Weide zum Stecken 120 x 120 x 30",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/hochbh-90_1.jpg",
+         "link":"https://www.naturgeflechte24.de/beetkasten-kieferweide-zum-stecken-120-x-120-x-30/",
+         "description":"120 x 120 x 30 cm",
+         "price":"69.00 €",
+         "weight":"3 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Hochbeet Kiefer mit Weide beflochten, 80×80 cm, erweiterbar",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/hochbeet-80.jpg",
+         "link":"https://www.naturgeflechte24.de/hochbeet-kiefer-weide/",
+         "description":"80 x 80 x 80 cm",
+         "price":"139.00 €",
+         "weight":""
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Hochbeet Kiefer/Weide zum Stecken 120 x 80",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2017/05/hochbeet-pahl_10268.jpg",
+         "link":"https://www.naturgeflechte24.de/hochbeet-holz-12080/",
+         "description":"120 x 80 x 60 cm",
+         "price":"129.00 €",
+         "weight":""
+      },
+      // Voegelhauser
+      {
+         "name":"Vogelfutterhaus Birke, Futtersilo, Standfuß, Schilfdach, 45 x 40",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2015/01/vogelhaus-birke-eckig-1.jpg",
+         "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-futtersilo-standfuss-strohdach-45-x-40/",
+         "description":"45 x 40 x 30cm",
+         "price":"35.90 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Vogelfutterhaus Birke, Standfuss, Reisigdach, rund, Ø 45 x 140",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2015/01/vogelhaus-birke-rund-mit-reisigdach-4.jpg",
+         "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-rund/",
+         "description":"Ø 45 cm",
+         "price":"32.90 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Vogelfutterhaus Birke, Standfuss, Schilfdach, 4-eckig, 40 x 40",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2015/01/vh-b-q-f_vogelhaus-birke-quadratisch-mit-futtersilo.jpg",
+         "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-standfuss-schilfdach-4-eckig-4o-x-40/",
+         "description":"40 x 40 x 40 cm",
+         "price":"32.90 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Vogelfutterhaus Birke, Standfuss, Schilfdach, rund, Ø 45 x 10",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2015/01/vogelhaus-birke-mit-strohdach-rund-3.jpg",
+         "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-standfuss-strohdach-rund-o-45-x-100/",
+         "description":"Material: Birkenholz unbehandelt, Schilfrohr\nDurchmesser: ca. 45 cm\nStänderhöhe: ca. 100 cm",
+         "price":"34.90 €",
+         "weight":"9 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Balkongewächshaus aus Holz mit Deckel, 60 x 58 x 90",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/aussen_gew_chshaus_klein_11.jpg",
+         "link":"https://www.naturgeflechte24.de/balkongewaechshaus-holz-90/",
+         "description":"50 x 54 x 90 cm",
+         "price":"159.00 €",
+         "weight":"4.5 kg"
       },
       {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
-      },
-      {
-         "name":"",
-         "photo":"",
-         "link":"",
-         "description":"",
-         "price":" €",
-         "weight":" kg"
+         "name":"Gewächshaus groß für Balkon und Terrasse, 60 x 58 x 170 cm",
+         "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/aussen_gew_chshaus_gro_1.jpg",
+         "link":"https://www.naturgeflechte24.de/balkongewaechshaus-holz-170/",
+         "description":"60 x 60 x 170 cm",
+         "price":"209.00 €",
+         "weight":"9.5 kg"
       }
    ]
 }
