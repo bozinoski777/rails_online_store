@@ -19,8 +19,19 @@ Spree::Taxon.find_or_initialize_by(name:'Gartengestaltung').update(taxonomy: Spr
 # Taxonomy Branch II
 # Koerbe Branch
 korb_produkte = %w(Einkaufskörbe Erntekörbe Brotkörbe Dekokörbe Katzenmöbel Hundemöbel Weidenkörbe)
+zaun_produkte = %w(Weidenenzäune Haselnusszäune Robinienzäune Lärchenzäune)
+garten_produkte = %w(Hochbeete Pflanzkästen Frühbeete Voegelhäuser Gewächshäuser)
+
 korb_produkte.each do |produkt|
   Spree::Taxon.find_or_initialize_by(name: produkt).update(taxonomy: Spree::Taxonomy.find_by(name: 'Körbe'), parent: Spree::Taxon.find_by(name: 'Körbe'))
+end
+
+zaun_produkte.each do |produkt|
+  Spree::Taxon.find_or_initialize_by(name: produkt).update(taxonomy: Spree::Taxonomy.find_by(name: 'Zäune'), parent: Spree::Taxon.find_by(name: 'Zäune'))
+end
+
+garten_produkte.each do |produkt|
+  Spree::Taxon.find_or_initialize_by(name: produkt).update(taxonomy: Spree::Taxonomy.find_by(name: 'Gartengestaltung'), parent: Spree::Taxon.find_by(name: 'Gartengestaltung'))
 end
 
 
