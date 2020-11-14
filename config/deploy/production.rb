@@ -7,7 +7,7 @@
 # server "example.com", user: "deploy", roles: %w{app web}, other_property: :other_value
 # server "db.example.com", user: "deploy", roles: %w{db}
 
-server 'ec2-18-195-1-27.eu-central-1.compute.amazonaws.com', user: 'deploy', roles: %w{app db web}
+server 'ec2-18-157-251-88.eu-central-1.compute.amazonaws.com', user: 'deploy', roles: %w{app db web}
 set :ssh_options, {
   # forward_agent: true,
   # auth_methods: ["publickey"],
