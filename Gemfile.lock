@@ -82,7 +82,6 @@ GEM
       popper_js (>= 1.14.3, < 2)
       sassc-rails (>= 2.0.0)
     builder (3.2.4)
-    byebug (11.1.3)
     camertron-eprun (1.1.1)
     cancancan (3.1.0)
     canonical-rails (0.2.9)
@@ -447,7 +446,6 @@ DEPENDENCIES
   bcrypt_pbkdf
   bootsnap (>= 1.4.2)
   bundler
-  byebug
   capistrano (~> 3.11)
   capistrano-passenger
   capistrano-rails (~> 1.4)
@@ -457,7 +455,7 @@ DEPENDENCIES
   dotenv-rails
   ed25519
   jbuilder (~> 2.7)
-  listen (~> 3.2)
+  listen
   mini_racer
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)

@@ -37,14 +37,14 @@ gem 'mini_racer'
 gem 'cloudinary', '~> 1.16.0'
 gem 'dotenv-rails'
 
-group :development, :test do
-  # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-end
+# group :development, :test do
+#   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
+#   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+# end
 
 group :development do
   gem 'web-console', '>= 3.3.0'
-  gem 'listen', '~> 3.2'
+  gem 'listen'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'ed25519'
