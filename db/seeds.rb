@@ -14,6 +14,10 @@ Spree::Taxon.find_or_initialize_by(name:'Körbe').update(taxonomy: Spree::Taxono
 Spree::Taxon.find_or_initialize_by(name:'Zäune').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 Spree::Taxon.find_or_initialize_by(name:'Gartengestaltung').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 
+
+Spree::Taxon.find_or_initialize_by(name:'Katze').update(taxonomy: Spree::Taxonomy.find_by(name:'Körbe'), parent: Spree::Taxon.find_by(name:'Körbe'))
+
+
 # Spree::Product.all.each do |product|
 #  p product
 #  product.destroy
