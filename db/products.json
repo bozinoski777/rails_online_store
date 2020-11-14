@@ -6,7 +6,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-hell-oval-henkel-40x26x25-42/",
          "description":"1 Henkel\nLänge: 40 cm\nBreite: 26 cm\nHöhe: 25 cm (ohne Henkel), 42 cm (mit Henkel)",
          "price":"25.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide hell, oval, Henkel, 47 x 37 x 25/40",
@@ -14,7 +15,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-hell-oval-henkel-47x37x25-40/",
          "description":"1 Henkel\nLänge: 47 cm\nBreite: 37 cm\nHöhe: 25 cm (ohne Henkel), 40 cm (mit Henkel)",
          "price":"32.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide hell, oval, Henkel, 55 x 37 x 25/40",
@@ -22,7 +24,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-hell-oval-henkel-55x37x25-40/",
          "description":"1 Henkel\nLänge: 55 cm\nBreite: 37 cm\nHöhe: 25 cm (ohne Henkel), 40 cm (mit Henkel)",
          "price":"29.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Holzkorb Weide, 2-farbig, oval, Jute, mit Henkel, 46 x 30 x 10/20/33",
@@ -30,7 +33,8 @@
          "link":"https://www.naturgeflechte24.de/holzkorb-weide-mit-henkel-46x30x10-20-33/",
          "description":"1 Henkel\nLänge: 46 cm\nBreite: 30 cm\nHöhe: 10 cm (außen), 20 cm (mitte), 33 cm (mit Henkel)",
          "price":"65.00 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Holzkorb Weide, hell, mit Henkel",
@@ -38,7 +42,8 @@
          "link":"https://www.naturgeflechte24.de/holzkorb-weide-hell-mit-henkel/",
          "description":"1 Henkel\nLänge: 60 | 50 cm\nBreite: 40 | 33 cm\nHöhe: 35 | 30 cm (ohne Henkel), 50 | 40 cm (mit Henkel)",
          "price":"35.00 €",
-         "weight":"4.6 kg"
+         "weight":"4.6 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Holzkorb Weide, hell, rechteckig, 2 Griffe, 55 x 40 x 27/34",
@@ -46,7 +51,8 @@
          "link":"https://www.naturgeflechte24.de/holzkorb-weide-hell-rechteckig-2-griffe-55x40x27-34/",
          "description":"",
          "price":"59.00 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Holzkorb, Einkaufskorb Weide, hell, mit Henkel, 55 x 40 x 27/34",
@@ -54,7 +60,8 @@
          "link":"https://www.naturgeflechte24.de/holzkorb-weide-hell-rechteckig-henkel-55x40x28-44/",
          "description":"",
          "price":"59.00 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Holzregal, Holzkorb Weide/Schmiedeeisen, 48 x 30 x 55",
@@ -62,7 +69,8 @@
          "link":"https://www.naturgeflechte24.de/holzregal-holzkorb-weide-schmiedeeisen-48x30x55/",
          "description":"Länge: 48 cm\nBreite: 30 cm\nHöhe: 55 cm",
          "price":"109.00 €",
-         "weight":"4.9 kg"
+         "weight":"4.9 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Brotkorb Weide eckig, hell",
@@ -70,7 +78,8 @@
          "link":"https://www.naturgeflechte24.de/brotkorb-weide-eckig-hell/",
          "description":"geschälte Korbweide\n\nohne chemische Zusätze\nhandgearbeitet",
          "price":"16.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Brotkörbe"
       },
       {
          "name":"Brotkorb Weide oval, hell, 32x15x8",
@@ -78,7 +87,8 @@
          "link":"https://www.naturgeflechte24.de/brotkorb-weide-32/",
          "description":"geschälte Korbweide\n32 x 15 cm, Höhe 8 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"5.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Brotkörbe"
       },
       {
          "name":"Brotkorb Weide oval, hell, 40x27x12",
@@ -86,7 +96,8 @@
          "link":"https://www.naturgeflechte24.de/brotkorb-weide-oval-hell-40x27x12/",
          "description":"geschälte Korbweide\n\nØ 40 – 27 cm, Höhe 12 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"25.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Brotkörbe"
       },
       {
          "name":"Brotkorb Weide rund, hell",
@@ -94,7 +105,8 @@
          "link":"https://www.naturgeflechte24.de/brotkorb-weide-rund-hell/",
          "description":"geschälte Korbweide\n\nØ 25 – 16 cm, Höhe 8 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"5.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Brotkörbe"
       },
       {
          "name":"Dekokorb Weide eckig, hell",
@@ -102,7 +114,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-eckig-hell/",
          "description":"geschälte Korbweide\nohne chemische Zusätze\nhandgearbeitet",
          "price":"28.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Dekokorb Weide eckig, hell, 40x35x26",
@@ -110,7 +123,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-eckig-hell-40x35x36/",
          "description":"geschälte Korbweide\n\n40 x 35 cm, Höhe 26 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"32.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Dekokorb Weide eckig, hell, 60x40x40/25",
@@ -118,7 +132,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-eckig-hell-60x40x40-25/",
          "description":"geschälte Korbweide\n\n60 x 40 cm, Höhe 40/25 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"69.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Dekokorb Weide oval, dunkel",
@@ -126,7 +141,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-oval-dunkel/",
          "description":"geschälte Korbweide\n\nohne chemische Zusätze\nhandgearbeitet",
          "price":"19.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Dekokorb Weide rund, hell",
@@ -134,7 +150,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-rund-hell/",
          "description":"geschälte Korbweide\n\nØ 20, 23, 26, 30 cm, Höhe 7, 8, 9, 10 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"7.50 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Dekokorb Weide rund, hell, mit Deckel",
@@ -142,7 +159,8 @@
          "link":"https://www.naturgeflechte24.de/dekokorb-weide-rund-hell-deckel/",
          "description":"geschälte Korbweide\nohne chemische Zusätze\nhandgearbeitet",
          "price":"13.50 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Dekokörbe"
       },
       {
          "name":"Einkaufskorb Weide eckig, hell, 43x29x18",
@@ -150,7 +168,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-eckig-hell-43x29x18/",
          "description":"geschälte Korbweide\n\n43 x 29 cm, Höhe 18 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"27.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide oval, hell, 37x28x19/36",
@@ -158,7 +177,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-oval-hell-37x28x19-36/",
          "description":"geschälte Korbweide\n\n37 x 28 cm, Höhe 19/36 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"18.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide oval, hell, 38x30x13/19/31",
@@ -166,7 +186,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-eckig-hell-38x30x13-19-31/",
          "description":"geschälte Korbweide\n\n38 x 30 cm, Höhe 13/19/31 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"22.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide rund, dunkel, 35×20/31",
@@ -174,7 +195,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-rund-dunkel-35x20-31-2/",
          "description":"ungeschälte Korbweide\n\nØ 35 cm, Höhe 20/31 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"21.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide rund, dunkel, 35×20/31, weißes Auge",
@@ -182,7 +204,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-rund-dunkel-35x20-31/",
          "description":"ungeschälte Korbweide\nØ 35 cm, Höhe 20/31 cm\nweißes japanisches Auge\nohne chemische Zusätze\nhandgearbeitet",
          "price":"22.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide rund, hell, 35×20/31",
@@ -190,7 +213,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-rund-hell-35x20-31/",
          "description":"geschälte Korbweide\n\nØ 35 cm, Höhe 20/31 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"25.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 2-farbig – 44 x 28 x 24/43 cm",
@@ -198,7 +222,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-autokorb-weide/",
          "description":"ca. 44 cm x 28 cm\nHöhe: ca. 24/43 cm",
          "price":"19.50 €",
-         "weight":"2.2 kg"
+         "weight":"2.2 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 2-farbig, dunkel 49 x 33 x 24/37",
@@ -206,7 +231,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-2farbig/",
          "description":"49 cm x 33 cm\nHöhe: 24/37 cm",
          "price":"21.50 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 2-farbig, hell 35 x 44 x 24/35",
@@ -214,7 +240,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-hell/",
          "description":"44 cm x 35 cm\nHöhe: ca. 24/35 cm",
          "price":"22.50 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 2-farbig, hell 40 x 30 x 21/31",
@@ -222,7 +249,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-gross/",
          "description":"ca. 40 cm x 30 cm\nHöhe: ca. 21/33 cm",
          "price":"19.50 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 2-farbig, hell 45 x 35 x 22/40 cm",
@@ -230,7 +258,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-44/",
          "description":"Material: europäische Weide\nAbmessung (LxB): ca. 45 x 35 cm\nHöhe: ca. 22 cm, inkl. Henkel 40 cm\nreine Handarbeit",
          "price":"17.50 €",
-         "weight":"2.2 kg"
+         "weight":"2.2 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufskorb Weide, 1 Henkel, 3-farbig, hell 44 x 34 x 25/39",
@@ -238,7 +267,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufskorb-weide-44x34/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 44 cm x 34 cm\nHöhe: 25 cm, mit Henkel 39 cm\nreine Handarbeit",
          "price":"24.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufstasche Weide oval, hell",
@@ -246,7 +276,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufstasche-weide-oval-hell/",
          "description":"geschälte Korbweide\n\nverschiedene Größen\nohne chemische Zusätze\nhandgearbeitet",
          "price":"16.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Einkaufstasche Weide rechteckig, hell, 42x19x24",
@@ -254,7 +285,8 @@
          "link":"https://www.naturgeflechte24.de/einkaufstasche-weide-eckig-hell-42x19x24/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 42 x 19cm\nKorbhöhe 24 cm\nreine Handarbeit",
          "price":"35.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Einkaufskörbe"
       },
       {
          "name":"Erntekorb Weide oval, dunkel",
@@ -262,7 +294,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-oval-dunkel/",
          "description":"geschälte Korbweide\n\n55 x 40 cm, Höhe 20 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"15.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb Weide quadratisch, dunkle Weide",
@@ -270,7 +303,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-quadratisch/",
          "description":"Länge x Breite: ca. 40 und 50 cm\nHöhe: ca. 40 und 50 cm\nsehr stabiler, quadratischer Korb mit 2 Henkeln aus ungeschälter Weide\neinsetzbar als Gartenkorb und Erntekorb\nals Kaminholzkorb, Transportkorb oder Übertopf für Kübelpflanzen\nmit Folie ausgekleidet können Sie den Weidenkorb auch bepflanzen, zum Beispiel mit Rosen",
          "price":"46.00 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb Weide rund, 2 Henkel, hell Ø 48×35",
@@ -278,7 +312,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-hell-48x35/",
          "description":"Weide geschält\nca. Ø 48 cm\nHöhe: 35 cm\neinsetzbar als Gartenkorb und Erntekorb\nals Kaminholzkorb, Transportkorb oder Übertopf für Kübelpflanzen\noptischer Blickfang neben Kachelofen und Kamin, zur Aufbewahrung von Brennholz",
          "price":"23.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb Weide rund, 2 Henkel, hell, Jute Ø 48 x 35",
@@ -286,7 +321,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-jute-2/",
          "description":"ca. Ø 48 x 35 cm",
          "price":"29.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb Weide rund, dunkel, Jute Ø 48×35",
@@ -294,7 +330,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-jute-dunkel-48x35/",
          "description":"Weide ungeschält\nmit Jute ausgeschlagen\nca. Ø 48 cm\nHöhe: 35 cm\neinsetzbar als Gartenkorb und Erntekorb\nals Kaminholzkorb, Transportkorb oder Übertopf für Kübelpflanzen\noptischer Blickfang neben Kachelofen und Kamin, zur Aufbewahrung von Brennholz",
          "price":"23.90 €",
-         "weight":"2.4 kg"
+         "weight":"2.4 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb Weide, Gartenkorb aus Weide Ø 45, 50, 55 cm",
@@ -302,7 +339,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-weide-rund/",
          "description":"Durchmesser: ca. 45/50/55 cm\n\nHöhe: ca. 30/33/38 cm\noder als Set mit allen Größen\nsehr stabiler, runder Korb mit 2 Henkeln aus ungeschälter Weide\neinsetzbar als Gartenkorb und Erntekorb\nals Kaminholzkorb, Transportkorb oder Übertopf für Kübelpflanzen\nmit Folie ausgekleidet, können Sie den Weidenkorb auch bepflanzen, zum Beispiel mit Rosen",
          "price":"15.90 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb, Holzkorb Robinie rund, 2 Henkel, Robinie/Weide, Ø 45, 50, 55",
@@ -310,7 +348,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-holzkorb-robinie/",
          "description":"",
          "price":"20.90 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Erntekorb, Holzkorb Weide rund, 2 Griffe, dunkel/hell",
@@ -318,7 +357,8 @@
          "link":"https://www.naturgeflechte24.de/erntekorb-dunkelhell/",
          "description":"ungeschälte und gebleichte Weide\nØ 45/30 x 27\nØ 50/35 x 30\nØ 55/37 x 33\nØ 60/38 x 38",
          "price":"18.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Flaschenkorb Weide mit 4 oder 6 Fächer",
@@ -326,7 +366,8 @@
          "link":"https://www.naturgeflechte24.de/flaschenkorb-weide/",
          "description":"geschälte Weide\ngroßer Tragegriff\nstabile Verarbeitung\n4 Flaschen: 25 x 25 x 23 cm\n6 Flaschen: 36 x 26 x 23 cm",
          "price":"25.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Erntekörbe"
       },
       {
          "name":"Geschenkkorb Weide oval, hell",
@@ -334,7 +375,8 @@
          "link":"https://www.naturgeflechte24.de/geschenkkorb-weide-oval-hell/",
          "description":"geschälte Korbweide\n\nohne chemische Zusätze\nhandgearbeitet",
          "price":"12.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Geschenkkörbe"
       },
       {
          "name":"Geschenkkorb Weide quadratisch, hell, 27x27x25/39",
@@ -342,7 +384,8 @@
          "link":"https://www.naturgeflechte24.de/geschenkkorb-weide-quadratisch-hell-27x27x25-39/",
          "description":"geschälte Korbweide\n\n27 x 27 cm, Höhe 25 / 39 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"24.90 €",
-         "weight":"2 kg"
+         "weight":"2 kg",
+         "taxons":"Geschenkkörbe"
       },
       {
          "name":"Geschenkkorb Weide rund, hell, 23×8",
@@ -350,7 +393,8 @@
          "link":"https://www.naturgeflechte24.de/geschenkkorb-weide-rund-hell-23x8/",
          "description":"geschälte Korbweide\n\nØ 23 cm, Höhe 8 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"9.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Geschenkkörbe"
       },
       {
          "name":"Geschenkkorb Weide rund, hell, 25×23/39",
@@ -358,7 +402,8 @@
          "link":"https://www.naturgeflechte24.de/geschenkkorb-weide-rund-hell-25x23-39/",
          "description":"geschälte Korbweide\n\nØ 25 cm, Höhe 23 / 39 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"24.90 €",
-         "weight":"2 kg"
+         "weight":"2 kg",
+         "taxons":"Geschenkkörbe"
       },
       {
          "name":"Geschenkkorb Weide rund, hell, 26×22/38",
@@ -366,7 +411,8 @@
          "link":"https://www.naturgeflechte24.de/geschenkkorb-weide-rund-hell-26x22-38/",
          "description":"geschälte Korbweide\n\nØ 26 cm, Höhe 22 / 38 cm\nohne chemische Zusätze\nhandgearbeitet",
          "price":"24.90 €",
-         "weight":"2 kg"
+         "weight":"2 kg",
+         "taxons":"Geschenkkörbe"
       },
       {
          "name":"Hundekorb Exklusiv, geschälte Weide, oval mit Kissen, 78 x 52 x 18/25",
@@ -374,7 +420,8 @@
          "link":"https://www.naturgeflechte24.de/hundekorb-exklusiv-geschaelte-weide-oval-mit-kissen-78-x-52-x-1825/",
          "description":"Stellfläche: 78 x 52 cm\ninnen: ca. 60 x 33 cm\nHöhe: 18 cm (Eingang), Gesamt: 25 cm",
          "price":"89.00 €",
-         "weight":"4.00 kg"
+         "weight":"4.00 kg",
+         "taxons":"Hundemöbel"
       },
       {
          "name":"Hundekorb Weide eckig, dunkel, 80×50",
@@ -382,7 +429,8 @@
          "link":"https://www.naturgeflechte24.de/hundekorb-weide-eckig-dunkel-80x50/",
          "description":"ungeschälte Korbweide\n\n80 x 50 cm, Höhe 35 cm\ninkl. Kissen (farbig sortiert)\nohne chemische Zusätze",
          "price":"69.90 €",
-         "weight":"9.5 kg"
+         "weight":"9.5 kg",
+         "taxons":"Hundemöbel"
       },
       {
          "name":"Hundekorb Weide hell, oval mit Kissen, 60, 70 und 80 cm",
@@ -390,7 +438,8 @@
          "link":"https://www.naturgeflechte24.de/hundekorb-weide-oval/",
          "description":"62 x 43 x 12/22 cm\n72 x 51 x 14/24 cm\n82 x 61 x 16/26 cm",
          "price":"25.90 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Hundemöbel"
       },
       {
          "name":"Hundesofa Weide dunkel, rechteckig mit Kissen, 80 x 60 x 35 cm",
@@ -398,7 +447,8 @@
          "link":"https://www.naturgeflechte24.de/hundesofa-weide-dunkel-rechteckig-mit-kissen-80-x-50-x-35/",
          "description":"ca. 80 x 60 cm\nHöhe: ca. 35 cm",
          "price":"87.90 €",
-         "weight":"9.5 kg"
+         "weight":"9.5 kg",
+         "taxons":"Hundemöbel"
       },
       {
          "name":"Hundesofa Weide hell, rechteckig mit Kissen, 80 x 60 x 35",
@@ -406,7 +456,8 @@
          "link":"https://www.naturgeflechte24.de/hundesofa-weide-hell-rechteckig-mit-kissen-80-x-60-x-35/",
          "description":"ca. 80 x 60 cm\nHöhe: ca. 35 cm",
          "price":"86.90 €",
-         "weight":"9.5 kg"
+         "weight":"9.5 kg",
+         "taxons":"Hundemöbel"
       },
       {
          "name":"Kaminholzkorb aus Weide rechteckig, mit Jute, hell, 50×35",
@@ -414,7 +465,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-hell-50-aus-geschaelter-weide/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 50 x 35 cm\nHöhe: vorderer Ausschnitt 10 cm\nKorbhöhe 33 cm, inkl. Henkel 50 cm\nreine Handarbeit",
          "price":"35.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb Weide 2-farbig, rechteckig mit Jute 50 x 35 cm",
@@ -422,7 +474,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-2-farbig-50/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 50 x 35 cm\nHöhe: vorderer Ausschnitt 10 cm\nKorbhöhe 33 cm, inkl. Henkel 50 cm\nreine Handarbeit",
          "price":"33.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb Weide rechteckig mit Jute, 50 x 35",
@@ -430,7 +483,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-rechteckig-50/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 50 x 35 cm\nHöhe: vorderer Ausschnitt 10 cm\nKorbhöhe 33 cm, inkl. Henkel 50 cm\nreine Handarbeit",
          "price":"32.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb, Brennholzkorb Weide, dunkel, oval, mit Jute 65×45",
@@ -438,7 +492,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-dunkel-oval-jute-65-x-45/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 65 x 45 cm\nHöhe: 10 – 24 cm, inkl. Henkel 42 cm\nreine Handarbeit",
          "price":"36.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb, Brennholzkorb Weide, hell, rechteckig, mit Jute 62×40",
@@ -446,7 +501,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-hell-rechteckig-jute-62-x-40/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 62 x 40 cm\nHöhe: 13 – 28 cm, inkl. Henkel 40 cm\nreine Handarbeit",
          "price":"37.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb, Brennholzorb Weide rechteckig mit Jute 51×40",
@@ -454,7 +510,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-mit-jute-51-cm/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 51 x 40 cm\nHöhe: 26 – 30 cm, inkl. Henkel 47 cm\nreine Handarbeit",
          "price":"58.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Kaminholzkorb, Brennholzorb Weide rechteckig mit Jute 60×40",
@@ -462,7 +519,8 @@
          "link":"https://www.naturgeflechte24.de/kaminholzkorb-mit-jute-60-x-40-cm/",
          "description":"Material: europäische Weide\nStoffeinsatz aus Jutegewebe\nAbmessung (LxB): 60 x 40 cm\nHöhe: vorderer Ausschnitt 15 cm\nKorbhöhe 35 cm, inkl. Henkel 50 cm\nreine Handarbeit",
          "price":"58.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Katzensessel Weide, Katzenkorb aus heller Weide",
@@ -470,7 +528,8 @@
          "link":"https://www.naturgeflechte24.de/katzensessel-weide/",
          "description":"Material: Europäische Weide\nAbmessung: Ø  ca. 45 – 48 cm\nSitzhöhe: ca. 35 cm\nGesamthöhe: ca. 65 cm\ninkl. 1 Kissen\nreine Handarbeit",
          "price":"49.90 €",
-         "weight":"7 kg"
+         "weight":"7 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Katzenturm , 1 Höhle + Liegefläche mit Kissen, dunkel Ø 42 x 45",
@@ -478,7 +537,8 @@
          "link":"https://www.naturgeflechte24.de/katzenturm-dunkel-klein-katzenkorb/",
          "description":"Material: Europäische Weide\nØ  ca. 42 – 46 cm\nHöhe: ca. 45 cm\ninkl. 2 Kissen\nreine Handarbeit",
          "price":"59.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Katzenturm , 1 Höhle + Liegefläche mit Kissen, hell Ø 42 x 45",
@@ -486,7 +546,8 @@
          "link":"https://www.naturgeflechte24.de/katzenturm-mit-hoehle-hell-tierkorb/",
          "description":"Material: Europäische Weide\nØ  ca. 42 – 46 cm\nHöhe: ca. 45 cm\ninkl. 2 Kissen\nreine Handarbeit",
          "price":"52.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Katzenturm, 2 Höhlen + Liegefläche mit Kissen, Ø 48-58 x 82",
@@ -494,7 +555,8 @@
          "link":"https://www.naturgeflechte24.de/katzenturm-weide-2-hoehlen-liegeflaeche-mit-kissen-o-48-h82/",
          "description":"Material: Europäische Weide\nØ  ca. 48 – 58 cm\nHöhe: ca. 82 cm\ninkl. 3 Kissen\nreine Handarbeit",
          "price":"89.90 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Pflanzkorb Weide Design, dunkel",
@@ -502,7 +564,8 @@
          "link":"https://www.naturgeflechte24.de/pflanzkorb-weide-design-dunkel/",
          "description":"ungeschälte Korbweide\nohne chemische Zusätze\nhandgearbeitet",
          "price":"24.90 €",
-         "weight":"1 kg"
+         "weight":"1 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Pflanzkorb Weide rund, Blumenständer, 42×76",
@@ -510,7 +573,8 @@
          "link":"https://www.naturgeflechte24.de/pflanzkorb-weide-rund-hell-42x76/",
          "description":"Material: europäische Weide\nGestell aus Holzstreben\nAbmessung: Ø ca. 42 cm\nGesamthöhe: 76 cm\nreine Handarbeit",
          "price":"44.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Pflanzkorb Weide, Weidentüte zum Aufhängen, 18×23",
@@ -518,7 +582,8 @@
          "link":"https://www.naturgeflechte24.de/pflanzkorb-weide-oval-dunkel-18x23x48-55/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 18 x 23 cm\nKorbhöhe: 48 cm\nGesamthöhe inkl. Henkel 55 cm\nreine Handarbeit",
          "price":"16.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Pflanzkorb, Wandschale Weide, mit Henkel 43×29",
@@ -526,7 +591,8 @@
          "link":"https://www.naturgeflechte24.de/pflanzkorb-wandschale-zum-aufhaengen-aus-weide/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 43 x 29 cm\nKorbhöhe: 29 cm\nGesamthöhe inkl. Henkel 37 cm\nreine Handarbeit",
          "price":"21.90 €",
-         "weight":"1.9 kg"
+         "weight":"1.9 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Serviertablett Weide, oval, 47x32x10",
@@ -534,7 +600,8 @@
          "link":"https://www.naturgeflechte24.de/serviertablett-weide-47x32x10/",
          "description":"Material: Europäische Weide\nBodenplatte aus Spanholz\nAbmessung: (LxB) 47 x 32 cm\nHöhe Flechtrand: ca. 10 cm\nHandarbeit",
          "price":"29.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Serviertablett Weide, oval, 52x37x10 cm",
@@ -542,7 +609,8 @@
          "link":"https://www.naturgeflechte24.de/serviertablett-weide-52x37x10/",
          "description":"Material: Europäische Weide\nBodenplatte aus Spanholz\nAbmessung: (LxB) 52 x 37 cm\nHöhe Flechtrand: ca. 10 cm\nHandarbeit",
          "price":"34.90 €",
-         "weight":"1.9 kg"
+         "weight":"1.9 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Serviertablett Weide, rechteckig mit Henkel, 48×38",
@@ -550,7 +618,8 @@
          "link":"https://www.naturgeflechte24.de/serviertablett-weide-48x38/",
          "description":"Material: Europäische Weide\nBodenplatte aus Spanholz\nAbmessung: (LxB) 48 x 38 cm\nHöhe Flechtrand: ca. 15 cm\nGesamthöhe: ca. 33cm\nHandarbeit",
          "price":"29.90 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Serviertablett Weide, rechteckig, 48x33x9",
@@ -558,7 +627,8 @@
          "link":"https://www.naturgeflechte24.de/serviertablett-weide-48x33x10/",
          "description":"Material: Europäische Weide\nBodenplatte aus Spanholz\nAbmessung: (LxB) 48 x 33 cm\nHöhe Flechtrand: ca. 9 cm\nHandarbeit",
          "price":"29.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Serviertablett Weide, rechteckig, hell, 60x25x10",
@@ -566,7 +636,8 @@
          "link":"https://www.naturgeflechte24.de/serviertablett-geschaelte-weide-rechteckig-60x25-cm/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 60 x 25 cm\nKorbhöhe 10 cm\nreine Handarbeit",
          "price":"32.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Teppichklopfer Weide, klassischer Polsterklopfer, 80 x 28",
@@ -574,7 +645,8 @@
          "link":"https://www.naturgeflechte24.de/teppichklopfer-weide-polsterklopfer-hell-80-x-28/",
          "description":"Material: europäische Weide\nAbmessung: Ø ca. 28 cm\nGesamtlänge: 80 cm\nreine Handarbeit",
          "price":"8.90 €",
-         "weight":"0.9 kg"
+         "weight":"0.9 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Tiertransportkorb Weide, oval, dunkel, 60 x 47",
@@ -582,7 +654,8 @@
          "link":"https://www.naturgeflechte24.de/tiertransportkorb-weide-oval-60-x-47-dunkel/",
          "description":"Material: Europäische Weide\nAbmessung (LxB): 60 x 47 cm\nHöhe: 47 cm, mit Henkel 52 cm\nreine Handarbeit",
          "price":"45.90 €",
-         "weight":"4 kg"
+         "weight":"4 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Tiertransportkorb Weide, Tierkorb oval/rund, 40 + 60 cm",
@@ -590,7 +663,8 @@
          "link":"https://www.naturgeflechte24.de/transportkorb-rund-4060/",
          "description":"ca. 40 x 32 x 32 cm\nca. 60 x 45 x 48 cm",
          "price":"19.90 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Tiertransportkorb, Tierkorb Weide rechteckig, 40+50+60 cm",
@@ -598,7 +672,8 @@
          "link":"https://www.naturgeflechte24.de/tiertransportkorb-weide/",
          "description":"Weide geschält\nca. 40 x 24 x 24 cm\nca. 50 x 30 x 30 cm\nca. 60 x 36 x 36 cm",
          "price":"19.14 €",
-         "weight":"0.0000 kg"
+         "weight":"0.0000 kg",
+         "taxons":"Katzenmöbel"
       },
       {
          "name":"Wäschekorb Weide mit Stoffeinlage, hell",
@@ -606,7 +681,8 @@
          "link":"https://www.naturgeflechte24.de/waeschekorb-weide-stoff/",
          "description":"geschälte Naturweide\n63 x 40 x 28/33 cm\n75 x 50 x 27/33 cm",
          "price":"49.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Wäschekorb Weide, Kaminholzkorb, 2 Henkel, oval",
@@ -614,7 +690,8 @@
          "link":"https://www.naturgeflechte24.de/waeschekorb-weide/",
          "description":"geschälte Naturweide\n63 x 40 x 22/27 cm\n75 x 50 x 22/27 cm",
          "price":"29.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Kaminholzkörbe"
       },
       {
          "name":"Wäschetonne Weide, rechteckig, mit Klappe, 34 x 38 x 61",
@@ -622,7 +699,8 @@
          "link":"https://www.naturgeflechte24.de/waeschetonne-weide-rechteckig-mit-klappe-34-x-38-x-61/",
          "description":"geschälte Weide\nmit Klappe\nLänge: 38 cm\nBreite: 34 cm\nHöhe: 61 cm",
          "price":"84.90 €",
-         "weight":"5 kg"
+         "weight":"5 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Wäschetonne Weide, rechteckig, mit Klappe, 64 x 51 x 69",
@@ -630,7 +708,8 @@
          "link":"https://www.naturgeflechte24.de/waeschetonne-weide-64/",
          "description":"Material: europäische Weide\nAbmessung (LxB): 51 x 46 cm\nKorbhöhe: 69 cm\nreine Handarbeit",
          "price":"124.90 €",
-         "weight":"5 kg"
+         "weight":"5 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Wäschetonne Weide, rund mit Deckel, 3 Größen",
@@ -638,7 +717,8 @@
          "link":"https://www.naturgeflechte24.de/waeschetonne-weide-rund-mit-deckel/",
          "description":"Material: geschälte Weide\nGrößen: Ø 33 x 36, Ø 39 x 42, Ø 48 x 60",
          "price":"35.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Wäschetonne, Wäschebox Weide, dreieckig, mit Klappe",
@@ -646,7 +726,8 @@
          "link":"https://www.naturgeflechte24.de/waeschetonne-weide-dreieckig-mit-klappe/",
          "description":"geschälte Weide mit akzenten aus ungeschälter Weide\nmit Klappe zum Verschließen\nerhältlich in 2 Größen:\n41 x 61 x 61 cm\n51 x 71 x 66 cm",
          "price":"64.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Weidenkorb, Dekokorb rund, 2 Henkel, hell Ø 24 x 28/35",
@@ -654,7 +735,8 @@
          "link":"https://www.naturgeflechte24.de/weidenkorb-dekokorb-rund-2-henkel-hell-o-24-x-28/",
          "description":"Material: europäische Weide\nMaße: Durchmesser ca. Ø 24 cm\nHöhe: ca. 28 cm, inkl. Henkel 35 cm\nreine Handarbeit",
          "price":"20.90 €",
-         "weight":"2 kg"
+         "weight":"2 kg",
+         "taxons":"Weidenkörbe"
       },
       {
          "name":"Weidenkorb, Kaminholzkorb, dunkel, oval, Jute 55 cm",
@@ -662,16 +744,17 @@
          "link":"https://www.naturgeflechte24.de/weidenkorb-kaminholzkorb-dunkel-oval-jute-55-cm/",
          "description":"",
          "price":"32.90 €",
-         "weight":"3.00 kg"
+         "weight":"3.00 kg",
+         "taxons":"Kaminholzkörbe"
       },
-      // ZAEUNE
       {
          "name":"Spanische Wand, Weidenzaun mit Bogen",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/wsw_spanische-wand-_6_2.jpg",
          "link":"https://www.naturgeflechte24.de/spanische-wand-weide/",
          "description":"Breite: 60 cm x Höhe: 120 cm\nBreite: 60 cm x Höhe: 180 cm\nGesamthöhe inkl. Rundbogen oben und Überstand unten: plus ca. 60 cm",
          "price":" 37.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenenzaun CIRCO Elegant, waagrecht geflochten, umlaufender Rahmen",
@@ -679,7 +762,8 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-circo-rankzaun/",
          "description":"90 x 180 cm\n180 x 180 cm\nRahmen: Kiefer lasiert 6 cm breit, 3 cm dick\nMit Rankgitter: 180 x 180 cm",
          "price":"75.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenzaun BALDO Klassik, waagrecht geflochten, ohne Rahmen",
@@ -687,7 +771,8 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-klassik/",
          "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 180 x 90 | 180 x 120 cm",
          "price":"33.25 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenzaun BALDO Natur, waagrecht geflochten, ohne Rahmen",
@@ -695,7 +780,8 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-natur/",
          "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 100 x 120 | 180 x 90 | 180 x 120 cm",
          "price":"37.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenzaun BALDO Stabil, waagrecht geflochten, ohne Rahmen",
@@ -703,7 +789,8 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-baldo-stabil-waagrecht-geflochten-ohne-rahmen/",
          "description":"als Sichtschutz: 90 x 180 | 180 x 150 | 180 x 180 cm\nals Gartenzaun: 100 x 120 | 180 x 90 | 180 x 120 cm",
          "price":"42.75 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Rankzaun Weide, CIRCO Elegant, mit Rahmen und Rankgitter",
@@ -711,7 +798,8 @@
          "link":"https://www.naturgeflechte24.de/rankzaun-weide-180180/",
          "description":"Material: Naturweide\nRahmenholz: Kiefer, lasiert\nRahmendicke 6×3 cm\nBreite: 180 cm\nHöhe: 180 cm",
          "price":"151.05 €",
-         "weight":"19 kg"
+         "weight":"19 kg",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenzaun LATO Solid, mit seitlichem Rahmen",
@@ -719,7 +807,8 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-lato-solid/",
          "description":"Breite:   90 cm x Höhe: 180 cm\nBreite: 100 cm x Höhe: 100 cm\nBreite: 120 cm x Höhen: 100 cm, 140 cm, 180 cm, 200 cm\nBreite: 180 cm x Höhe: 180 cm",
          "price":"46.55 €",
-         "weight":" kg"
+         "weight":" kg",
+         "taxons":"Weidenenzäune"
       },
       {
          "name":"Weidenzaun LATO Standard, mit seitlichem Rahmen",
@@ -727,16 +816,17 @@
          "link":"https://www.naturgeflechte24.de/weidenzaun-lato-standard/",
          "description":"Breite:   90 cm x Höhe: 180 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite: 180 cm x Höhe: 180 cm",
          "price":"46.55 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Weidenenzäune"
       },
-      // Haselnusszaun
       {
          "name":"Haselnusszaun BALDO Stabil, waagrecht geflochten, ohne Rahmen",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/baldo_hst_haselnusszaun_stabil_2__1_43.jpg",
          "link":"https://www.naturgeflechte24.de/haselnusszaun-baldo-stabil-2/",
          "description":"Breite: 90 cm x Höhe: 180 cm\nBreite: 100 cm x Höhe: 120 cm\nBreite: 180 cm x Höhen: 90, 120, 150 und 180 cm",
          "price":"37.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Haselnusszäune"
       },
       {
          "name":"Haselnusszaun CIRCO Komfort, senkrecht geflochten, mit umlaufendem Rahmen",
@@ -744,7 +834,8 @@
          "link":"https://www.naturgeflechte24.de/haselnusszaun-circo-komfort/",
          "description":"Breite: 120 cm x Höhe: 100 cm\nBreite: 120 cm x Höhe: 150 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite:   90 cm x Höhe: 180 cm",
          "price":"94.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Haselnusszäune"
       },
       {
          "name":"Haselnusszaun LATO Kompakt, senkrecht geflochten, mit seitlichem Rahmen",
@@ -752,7 +843,8 @@
          "link":"https://www.naturgeflechte24.de/haselnusszaun-lato-kompakt/",
          "description":"Haselnusszaun Kompakt – Gartenzaun: 120 x 100 cm\nHaselnusszaun Kompakt – Sichtschutz: 120 x 150 | 120 x 180 | 90 x 180 cm\nHaselnusszaun Kompakt – quer eingebaut – Gartenzaun: 90 | 100 | 120 cm hoch",
          "price":"75.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Haselnusszäune"
       },
       {
          "name":"Haselnusszaun LATO Universal – senkrecht geflochten, mit Haselrahmen",
@@ -760,16 +852,17 @@
          "link":"https://www.naturgeflechte24.de/haselnusszaun-lato-universal/",
          "description":"Breite:   90 cm x Höhe: 180 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite: 100 cm x Höhe: 90 cm\nBreite: 180 cm x Höhe: 90 cm",
          "price":"27.55 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Haselnusszäune"
       },
-      // Robinenzaun
       {
          "name":"Robinienzaun BALDO Stabil – ohne Rahmen, waagrecht geflochten",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/robinienzaun-baldo-stabil-6.jpg",
          "link":"https://www.naturgeflechte24.de/robinienzaun-baldo-stabil/",
          "description":"Breite: 90 cm x Höhe: 180 cm\nBreite: 100 cm x Höhe: 120 cm\nBreite: 180 cm x Höhen: 90, 120, 150 und 180 cm",
          "price":"46.55 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Robinienzäune"
       },
       {
          "name":"Robinienzaun CIRCO Komfort, mit umlaufendem Rahmen",
@@ -777,7 +870,8 @@
          "link":"https://www.naturgeflechte24.de/robinienzaun-circo-komfort/",
          "description":"Breite: 120 cm x Höhe: 100 cm\nBreite: 120 cm x Höhe: 150 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite:   90 cm x Höhe: 180 cm",
          "price":"113.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Robinienzäune"
       },
       {
          "name":"Robinienzaun LATO Kompakt, mit seitlichem Rahmen",
@@ -785,16 +879,17 @@
          "link":"https://www.naturgeflechte24.de/robinienzaun-lato-kompakt/",
          "description":"Breite: 120 cm x Höhe: 100 cm\nBreite: 120 cm x Höhe: 150 cm\nBreite: 120 cm x Höhe: 180 cm\nBreite:   90 cm x Höhe: 180 cm\nRahmen: Kiefer lasiert, 3×8 cm (Breite x Tiefe)",
          "price":"84.55 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Robinienzäune"
       },
-      // Laerchenzaun
       {
          "name":"Lärchenzaun diagonal, blickdicht, Sichtschutz Lärche",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/laerchenzaun-blickdicht.jpg",
          "link":"https://www.naturgeflechte24.de/laerchenzaun-diagonal-blickdicht-sichtschutz-laerche/",
          "description":"Die Lärchenzaun – Serie besticht durch Eleganz und ein klares, zeitloses Design. Dadurch bieten sich viele Kombinationmöglichkeiten an.",
          "price":"132.05 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Lärchenzäune"
       },
       {
          "name":"Lärchenzaun, Lamellenzaun , Sichtschutz Lärche",
@@ -802,16 +897,17 @@
          "link":"https://www.naturgeflechte24.de/laerchenzaun-sichtschutz-laerche/",
          "description":"Dieser Sichtschutz aus Lärche besticht durch Eleganz und ein klares, zeitloses Design. Dadurch bieten sich viele Kombinationmöglichkeiten an.",
          "price":"65.55 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Lärchenzäune"
       },
-      // Gartengestaltung
       {
          "name":"Balkonhochbeet Kiefer/Weide mit Deckel, 40 x 100 x 80",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2018/10/balk-hb_balkonhochbeet-40x80x100-_3_3.jpg",
          "link":"https://www.naturgeflechte24.de/balkonhochbeet-holz-80/",
          "description":"Material: lasiertes Kiefernholz mit eingeflochtener Weide\nDeckelfenster aus Stegdoppelplatten\nmit Vlies ausgekleidet",
          "price":"71.25 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Hochbeete"
       },
       {
          "name":"Balkonhochbeet Lärche doppelt inkl. 6 Einsätze, 100x69x80 cm",
@@ -819,7 +915,8 @@
          "link":"https://www.naturgeflechte24.de/balkonhochbeet-laerche-100/",
          "description":"Länge: 100 cm\nBreite: 69 cm\nHöhe: 80 cm",
          "price":"142.41 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Hochbeete"
       },
       {
          "name":"Balkonhochbeet Lärche inkl. Einsätze, 100 x 37 x 80 cm",
@@ -827,7 +924,8 @@
          "link":"https://www.naturgeflechte24.de/balkonhochbeet-laerche-inkl-einsaetze-100-x-37-x-80-cm/",
          "description":"100 x 37 x 80 cm",
          "price":"99.00 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Hochbeete"
       },
       {
          "name":"Pflanztreppe Lärche, 2 oder 3 Etagen",
@@ -835,7 +933,8 @@
          "link":"https://www.naturgeflechte24.de/pflanztreppe-laerche-2-oder-3-etagen/",
          "description":"Länge: 110 cm\nBreite: 114 cm\nHöhe: 63 cm",
          "price":"79.90 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Pflanzkästen"
       },
       {
          "name":"Beetkasten Kiefer/Weide zum Stecken 120 x 120 x 30",
@@ -843,7 +942,8 @@
          "link":"https://www.naturgeflechte24.de/beetkasten-kieferweide-zum-stecken-120-x-120-x-30/",
          "description":"120 x 120 x 30 cm",
          "price":"69.00 €",
-         "weight":"3 kg"
+         "weight":"3 kg",
+         "taxons":"Pflanzkästen"
       },
       {
          "name":"Hochbeet Kiefer mit Weide beflochten, 80×80 cm, erweiterbar",
@@ -851,7 +951,8 @@
          "link":"https://www.naturgeflechte24.de/hochbeet-kiefer-weide/",
          "description":"80 x 80 x 80 cm",
          "price":"139.00 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Hochbeete"
       },
       {
          "name":"Hochbeet Kiefer/Weide zum Stecken 120 x 80",
@@ -859,16 +960,17 @@
          "link":"https://www.naturgeflechte24.de/hochbeet-holz-12080/",
          "description":"120 x 80 x 60 cm",
          "price":"129.00 €",
-         "weight":""
+         "weight":"",
+         "taxons":"Hochbeete"
       },
-      // Voegelhauser
       {
          "name":"Vogelfutterhaus Birke, Futtersilo, Standfuß, Schilfdach, 45 x 40",
          "photo":"https://www.naturgeflechte24.de/wp-content/uploads/2015/01/vogelhaus-birke-eckig-1.jpg",
          "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-futtersilo-standfuss-strohdach-45-x-40/",
          "description":"45 x 40 x 30cm",
          "price":"35.90 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Voegelhäuser"
       },
       {
          "name":"Vogelfutterhaus Birke, Standfuss, Reisigdach, rund, Ø 45 x 140",
@@ -876,7 +978,8 @@
          "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-rund/",
          "description":"Ø 45 cm",
          "price":"32.90 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Voegelhäuser"
       },
       {
          "name":"Vogelfutterhaus Birke, Standfuss, Schilfdach, 4-eckig, 40 x 40",
@@ -884,7 +987,8 @@
          "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-standfuss-schilfdach-4-eckig-4o-x-40/",
          "description":"40 x 40 x 40 cm",
          "price":"32.90 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Voegelhäuser"
       },
       {
          "name":"Vogelfutterhaus Birke, Standfuss, Schilfdach, rund, Ø 45 x 10",
@@ -892,7 +996,8 @@
          "link":"https://www.naturgeflechte24.de/vogelfutterhaus-birke-standfuss-strohdach-rund-o-45-x-100/",
          "description":"Material: Birkenholz unbehandelt, Schilfrohr\nDurchmesser: ca. 45 cm\nStänderhöhe: ca. 100 cm",
          "price":"34.90 €",
-         "weight":"9 kg"
+         "weight":"9 kg",
+         "taxons":"Voegelhäuser"
       },
       {
          "name":"Balkongewächshaus aus Holz mit Deckel, 60 x 58 x 90",
@@ -900,7 +1005,8 @@
          "link":"https://www.naturgeflechte24.de/balkongewaechshaus-holz-90/",
          "description":"50 x 54 x 90 cm",
          "price":"159.00 €",
-         "weight":"4.5 kg"
+         "weight":"4.5 kg",
+         "taxons":"Gewächshäuser"
       },
       {
          "name":"Gewächshaus groß für Balkon und Terrasse, 60 x 58 x 170 cm",
@@ -908,7 +1014,8 @@
          "link":"https://www.naturgeflechte24.de/balkongewaechshaus-holz-170/",
          "description":"60 x 60 x 170 cm",
          "price":"209.00 €",
-         "weight":"9.5 kg"
+         "weight":"9.5 kg",
+         "taxons":"Gewächshäuser"
       }
    ]
 }
