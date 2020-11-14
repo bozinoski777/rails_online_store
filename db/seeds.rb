@@ -9,13 +9,20 @@
 # Spree::Core::Engine.load_seed if defined?(Spree::Core)
 # Spree::Auth::Engine.load_seed if defined?(Spree::Auth)
 
+# Taxonomy root
 Spree::Taxonomy.find_or_create_by(name:'Produkte')
+# Taxonomy Branch I
 Spree::Taxon.find_or_initialize_by(name:'Körbe').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 Spree::Taxon.find_or_initialize_by(name:'Zäune').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 Spree::Taxon.find_or_initialize_by(name:'Gartengestaltung').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 
+# Taxonomy Branch II
+# Koerbe Branch
+korb_produkte = %w(Einkaufskörbe Erntekörbe Brotkörbe Dekokörbe Katzenmöbel Hundemöbel Weidenkörbe)
+korb_produkte.each do |produkt|
+  Spree::Taxon.find_or_initialize_by(name: produkt).update(taxonomy: Spree::Taxonomy.find_by(name: 'Körbe'), parent: Spree::Taxon.find_by(name: 'Körbe'))
+end
 
-Spree::Taxon.find_or_initialize_by(name:'Katze').update(taxonomy: Spree::Taxonomy.find_by(name:'Körbe'), parent: Spree::Taxon.find_by(name:'Körbe'))
 
 
 # Spree::Product.all.each do |product|
