@@ -14,7 +14,7 @@ Spree::Taxonomy.find_or_create_by(name: 'Produkte')
 # Taxonomy Branch I
 Spree::Taxon.find_or_initialize_by(name: 'Körbe').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 Spree::Taxon.find_or_initialize_by(name: 'Zäune').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
-Spree::Taxon.find_or_initialize_by(name: 'Gartengestaltung').update(taxonomy: Spree::Taxonomy.find_by(name:'Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
+Spree::Taxon.find_or_initialize_by(name: 'Gartengestaltung').update(taxonomy: Spree::Taxonomy.find_by(name:'  Produkte'), parent: Spree::Taxon.find_by(name:'Produkte'))
 
 # Taxonomy Branch II
 korb_produkte = %w(Einkaufskörbe Erntekörbe Brotkörbe Kaminholzkörbe Geschenkkörbe Dekokörbe Katzenmöbel Hundemöbel Weidenkörbe)
