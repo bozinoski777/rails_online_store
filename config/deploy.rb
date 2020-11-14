@@ -37,7 +37,7 @@ set :keep_releases, 5
 
 # Uncomment the following to require manually verifying the host key before first deploy.
 # set :ssh_options, verify_host_key: :secure
-module Spree
+
 namespace :baba do
   desc "Seed products in production"
   task :production_product_seed do
@@ -98,5 +98,4 @@ namespace :baba do
       img.save
     end
   end
-end
 end
