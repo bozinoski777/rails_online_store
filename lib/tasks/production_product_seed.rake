@@ -1,6 +1,6 @@
-namespace :production_product_seed do
+namespace :db do
   desc "Seed products in production"
-  task do
+  task :production_product_seed do
 
     # Taxonomy root
     Spree::Taxonomy.find_or_create_by(name: 'Produkte')
