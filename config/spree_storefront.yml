@@ -1,7 +1,7 @@
 default:
   navigation:
     - title: Körbe
-      subtitle: Categories
+      subtitle: Kategorien
       url: /t/produkte/korbe
       items:
         - :title: Einkaufkörbe
@@ -32,17 +32,17 @@ default:
           url: http://localhost:3000/products/katzensessel-weide-katzenkorb-aus-heller-weide
           image: 'meganav/promo_banner_right-first-category.jpg'
     - title: Naturzäune
-      subtitle: Categories
-      url: /t/Brotkoerbe
+      subtitle: Kategorien
+      url: /t/produkte/zaune
       items:
-        - :title: Shirts
-          :url: /t/Brotkoerbe/shirts
-        - :title: T-shirts
-          :url: /t/Brotkoerbe/t-shirts
-        - :title: Sweaters
-          :url: /t/Brotkoerbe/sweaters
-        - :title: Jackets and Coats
-          :url: /t/Brotkoerbe/jackets-and-coats
+        - :title: Weidenzäune
+          :url: /t/produkte/zaune/weidenenzaune
+        - :title: Haselnusszäune
+          :url: /t/produkte/zaune/haselnusszaune
+        - :title: Robinenzäunte
+          :url: /t/produkte/zaune/robinienzaune
+        - :title: Lärchenzäune
+          :url: /t/produkte/zaune/larchenzaune
       promo_banners:
         - subtitle: Neue Modelle
           title: 10% Billiger
@@ -53,15 +53,17 @@ default:
           url: /t/special-offers/30-off
           image: 'meganav/promo_banner_right-second-category.jpg'
     - title: Gartengestaltung
-      subtitle: Categories
-      url: /t/sportswear
+      subtitle: Kategorien
+      url: /t/produkte/gartengestaltung
       items:
-        - :title: Tops
-          :url: /t/sportswear/tops
-        - :title: Sweatshirts
-          :url: /t/sportswear/sweatshirts
-        - :title: Pants
-          :url: /t/sportswear/pants
+        - :title: Hochbeete
+          :url: /t/produkte/gartengestaltung/hochbeete
+        - :title: Pflanzkästen
+          :url: /t/produkte/gartengestaltung/pflanzkasten
+        - :title: Vögelhäuser
+          :url: /t/produkte/gartengestaltung/voegelhauser
+        - :title: Gewächshäuser
+          :url: /t/produkte/gartengestaltung/gewachshauser
       promo_banners:
         - subtitle: New collection
           title: Summer 2019
