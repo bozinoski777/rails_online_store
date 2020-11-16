@@ -14,23 +14,6 @@ Spree.config do |config|
   # Uncomment to stop tracking inventory levels in the application
   # config.track_inventory_levels = false
   config.logo = 'logo.png'
-attachment_config = {
-  # s3_credentials: {
-  #   access_key_id:     ENV['AWS_ACCESS_KEY_ID'],
-  #   secret_access_key: ENV['AWS_SECRET_ACCESS_KEY'],
-  #   bucket:            ENV['S3_BUCKET_NAME']
-  # },
-
-  # storage:        :s3,
-  # s3_region:      ENV['S3_REGION'],
-  # s3_headers:     { "Cache-Control" => "max-age=31557600" },
-  # s3_protocol:    "https",
-  # bucket:         ENV['S3_BUCKET_NAME'],
-  # url:            ":s3_domain_url",
-
-  path:           "/:class/:id/:style/:basename.:extension",
-  default_url:    "/:class/:id/:style/:basename.:extension"
-}
 end
 
 # Configure Spree Dependencies
@@ -47,4 +30,3 @@ end
 # Spree::Api::Dependencies.storefront_cart_serializer = 'MyRailsApp::CartSerializer'
 
 Spree.user_class = "Spree::User"
-

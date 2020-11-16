@@ -2,20 +2,26 @@ default:
   navigation:
     - title: Körbe
       subtitle: Categories
-      url: /t/koerbe
+      url: /t/produkte/korbe
       items:
-        - :title: Hundekörbe
-          :url: /t/koerbe/hundekoerbe
-        - :title: Katzenkörbe
-          :url: /t/koerbe/katzenkoerbe
-        - :title: Kaminholzkörbe
-          :url: /t/koerbe/kaminholzkoerbe
+        - :title: Einkaufkörbe
+          :url: /t/produkte/korbe/einkaufskorbe
         - :title: Erntekörbe
-          :url: /t/koerbe/erntekoerbe
-        - :title: Wäschekörbe
-          :url: /t/koerbe/waeschekoerbe
-        - :title: Serviertabletts
-          :url: /t/koerbe/serviertabletts
+          :url: /t/produkte/korbe/erntekorbe
+        - :title: Brotkörbe
+          :url: /t/produkte/korbe/brotkorbe
+        - :title: Kaminholzkörbe
+          :url: /t/produkte/korbe/kaminholzkorbe
+        - :title: Geschenkkörbe
+          :url: /t/produkte/korbe/geschenkkorbe
+        - :title: Dekokörbe
+          :url: /t/produkte/korbe/dekokorbe
+        - :title: Katzenmöbel
+          :url: /t/produkte/korbe/katzenmobel
+        - :title: Hundemöbel
+          :url: /t/produkte/korbe/hundemobel
+        - :title: Weindenkörbe
+          :url: /t/produkte/korbe/weidenkorbe
       promo_banners:
         - subtitle: Erntekörbe
           title: 10% Billiger
