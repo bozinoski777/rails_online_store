@@ -51,6 +51,7 @@ group :development do
   gem 'ed25519'
   gem 'bcrypt_pbkdf'
   gem 'bundler'
+
 end
 
 group :test do
@@ -68,3 +69,4 @@ gem 'capistrano', '~> 3.11'
 gem 'capistrano-rails', '~> 1.4'
 gem 'capistrano-passenger'
 gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
+gem 'carrierwave'
