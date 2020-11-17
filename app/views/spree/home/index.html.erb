@@ -19,27 +19,27 @@
     <div class="col-6">
 
       <div class="homepage-taxon-box mb-3">
-        <%= link_to spree.nested_taxons_path('men') do %>
+        <%= link_to spree.nested_taxons_path('produkte/korbe') do %>
           <img class="w-100 lazyload"
             data-src="<%= asset_path('homepage/category_banner_upper.jpg') %>"
             data-srcset="<%= image_source_set('homepage/category_banner_upper') %>"
-            alt="<%= Spree.t('homepage.men')%>" />
+            alt="<%= Spree.t('produkte.korbe')%>" />
 
           <div class="homepage-taxon-box-text">
-            <h3><%= Spree.t('homepage.men') %></h3>
+            <h3><%= Spree.t('homepage.Korbwahren') %></h3>
           </div>
         <% end %>
       </div>
 
       <div class="homepage-taxon-box">
-        <%= link_to spree.nested_taxons_path('sportswear') do %>
+        <%= link_to spree.nested_taxons_path('produkte/gartengestaltung') do %>
           <img class="w-100 lazyload"
             data-src="<%= asset_path('homepage/category_banner_lower.jpg') %>"
             data-srcset="<%= image_source_set('homepage/category_banner_lower') %>"
-            alt="<%= Spree.t('homepage.sportswear')%>" />
+            alt="<%= Spree.t('homepage.Gartengestaltung')%>" />
 
           <div class="homepage-taxon-box-text" role="img" aria-label="<%= Spree.t('homepage.sportswear') %>">
-            <h3><%= Spree.t('homepage.sportswear') %></h3>
+            <h3><%= Spree.t('homepage.Gartengestaltung') %></h3>
           </div>
         <% end %>
       </div>
@@ -49,14 +49,14 @@
     <div class="col-6 d-flex flex-column">
 
       <div class="homepage-taxon-box flex-grow-1">
-        <%= link_to spree.nested_taxons_path('women') do %>
+        <%= link_to spree.nested_taxons_path('produkte/naturzäune') do %>
           <img class="w-100 lazyload"
             data-src="<%= asset_path('homepage/big_category_banner.jpg') %>"
             data-srcset="<%= image_source_set('homepage/big_category_banner') %>"
-            alt="<%= Spree.t('homepage.women')%>" />
+            alt="<%= Spree.t('homepage.Naturzäune')%>" />
 
           <div class="homepage-taxon-box-text">
-            <h3><%= Spree.t('homepage.women') %></h3>
+            <h3><%= Spree.t('homepage.Naturzäune') %></h3>
           </div>
         <% end %>
       </div>
@@ -84,7 +84,7 @@
 <div class="container">
   <div class="row">
     <div class="col-12 col-lg-6">
-      <%= link_to spree.nested_taxons_path('streetstyle') do %>
+      <%= link_to spree.nested_taxons_path('produkte/korbe/katzenmobel') do %>
         <div class="homepage-bottom-box text-center mb-3">
           <img class="w-100 lazyload"
             data-src="<%= asset_path('homepage/promo_banner_left.jpg') %>"
@@ -93,10 +93,10 @@
 
           <div class="homepage-bottom-box-inner" role="img" aria-label="<%= Spree.t('homepage.new_collection') %>">
             <div class="homepage-bottom-box-inner-small-text">
-              <%= Spree.t('homepage.new_collection') %>
+              <%= Spree.t('homepage.Handgemachte') %>
             </div>
             <div class="homepage-bottom-box-inner-big-text">
-              <%= Spree.t('homepage.streetstyle') %>
+              <%= Spree.t('homepage.Katzenmöbel') %>
             </div>
           </div>
         </div>
@@ -104,7 +104,7 @@
     </div>
 
     <div class="col-12 col-lg-6">
-      <%= link_to spree.nested_taxons_path('summer-sale') do %>
+      <%= link_to spree.nested_taxons_path('produkte/korbe/hundemobel') do %>
         <div class="homepage-bottom-box text-center mb-3">
           <img class="w-100 lazyload"
             data-src="<%= asset_path('homepage/promo_banner_right.jpg') %>"
@@ -113,10 +113,10 @@
 
           <div class="homepage-bottom-box-inner">
             <div class="homepage-bottom-box-inner-small-text">
-              <%= Spree.t('homepage.summer_sale') %>
+              <%= Spree.t('homepage.Handgemachte') %>
             </div>
             <div class="homepage-bottom-box-inner-big-text">
-              <%= Spree.t('homepage.up_to_60') %>
+              <%= Spree.t('homepage.Kundemöbel') %>
             </div>
           </div>
         </div>
