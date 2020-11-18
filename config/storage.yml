@@ -1,8 +1,8 @@
-amazon:
-  service: Cloudinary
+# amazon:
+#   service: Cloudinary
 
-cloudinary:
-  service: Cloudinary
+# cloudinary:
+#   service: Cloudinary
 
   amazon_dev:
     service: S3
