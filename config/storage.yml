@@ -1,3 +1,6 @@
+amazon:
+  service: Cloudinary
+
 cloudinary:
   service: Cloudinary
 
