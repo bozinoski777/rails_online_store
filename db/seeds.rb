@@ -41,7 +41,6 @@ end
 puts 'Taxons seeded'
 
 Spree::Product.all.each do |product|
-  p product
   product.destroy!
 end
 
