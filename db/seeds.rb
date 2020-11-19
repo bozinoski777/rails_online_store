@@ -1,3 +1,5 @@
+require 'open-uri'
+require 'json'
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
@@ -36,13 +38,14 @@ garten_produkte.each do |produkt|
   Spree::Taxon.find_or_initialize_by(name: produkt).update(taxonomy: Spree::Taxonomy.find_by(name: 'Gartengestaltung'), parent: Spree::Taxon.find_by(name: 'Gartengestaltung'))
 end
 
+puts 'Taxons seeded'
+
 Spree::Product.all.each do |product|
   p product
-  product.destroy
+  product.destroy!
 end
 
-require 'open-uri'
-require 'json'
+puts 'Products Deleted'
 
 filepath = 'db/products.json'
 
@@ -50,6 +53,7 @@ serialized_products = File.read(filepath)
 
 products = JSON.parse(serialized_products)
 
+counter = 1
 products['products'].each do |json_product|
   product = Spree::Product.create(name: json_product['name'],
                                   description: json_product['description'],
@@ -64,5 +68,7 @@ products['products'].each do |json_product|
   # img = ::Spree::Image.new(viewable_id: product.master_id, viewable_type: 'Spree::Variant')
   img = ::Spree::Image.new(viewable_id: product.master_id, viewable: product.master)
   img.attachment.attach(io: img_file, filename: json_product['photo'], content_type: 'image/png')
-  img.save
+  img.save!
+  puts "#{counter}Product seeded"
+  counter += 1
 end
