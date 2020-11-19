@@ -69,6 +69,6 @@ products['products'].each do |json_product|
   img = ::Spree::Image.new(viewable_id: product.master_id, viewable: product.master)
   img.attachment.attach(io: img_file, filename: json_product['photo'], content_type: 'image/png')
   img.save!
-  puts "#{counter}Product seeded"
+  puts "#{counter} Product seeded"
   counter += 1
 end
