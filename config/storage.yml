@@ -19,7 +19,7 @@
       <%= Rails.application.credentials.aws[:secret_access_key] %>
     region: <%= Rails.application.credentials.aws[:region] %>
     bucket: <%= Rails.application.credentials.aws[:prod][:bucket] %>
-    root: <%= Rails.root.join("../shared/storage") %>
+    root: '/'
 
 # test:
 #   service: Disk
