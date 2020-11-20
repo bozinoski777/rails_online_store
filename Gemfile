@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'aws-sdk-s3', require: false
+gem 'rmagick', '~> 2.15', '>= 2.15.4'
+gem 'aws-sdk-ec2', '~> 1'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'spree', '~> 4.1'
@@ -36,9 +38,6 @@ gem 'mini_racer'
 
 # gem 'cloudinary', '~> 1.16.0'
 gem 'dotenv-rails'
-gem 'rmagick', '~> 2.15', '>= 2.15.4'
-gem 'aws-sdk-s3', '~> 1'
-gem 'aws-sdk-ec2', '~> 1'
 
 # group :development, :test do
 #   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
