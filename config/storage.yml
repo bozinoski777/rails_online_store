@@ -19,7 +19,6 @@
       <%= Rails.application.credentials.aws[:secret_access_key] %>
     region: <%= Rails.application.credentials.aws[:region] %>
     bucket: <%= Rails.application.credentials.aws[:prod][:bucket] %>
-    root: '/'
 
 # test:
 #   service: Disk
