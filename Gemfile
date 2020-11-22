@@ -36,6 +36,7 @@ gem 'autoprefixer-rails'
 # gem 'execjs'
 gem 'mini_racer'
 
+
 # gem 'cloudinary', '~> 1.16.0'
 gem 'dotenv-rails'
 
