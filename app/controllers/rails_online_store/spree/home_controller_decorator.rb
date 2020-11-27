@@ -1,14 +1,14 @@
-Spree::HomeController.class_eval do
-  before_action :load_data, :only => :index
+# Spree::HomeController.class_eval do
+#   before_action :load_data, :only => :index
 
-      def index
-        product_1 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
-        product_2 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
-        product_3 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
-        product_4 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
-        @homepage_products = [product_1, product_2, product_3, product_4]
-      end
-end
+#       def index
+#         product_1 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
+#         product_2 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
+#         product_3 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
+#         product_4 = Product.find_by!(name: 'Einkaufskorb Weide hell, oval, Henkel, 40 x 26 x 25/42')
+#         @homepage_products = [product_1, product_2, product_3, product_4]
+#       end
+# end
 
 
 
