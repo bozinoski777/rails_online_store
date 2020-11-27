@@ -65,6 +65,12 @@
   </div>
 </div>
 
+<div id="homepage-products">
+    <div class="product-details">
+      <p class="font-weight-bold text-center text-uppercase product-details-carousel-text"><%= Spree.t('pdp.you_may_also_like') %></p>
+      <%= render 'spree/shared/carousel_4_products', id: 'homepage-products-carousel', products: @homepage_products %>
+    </div>
+  </div>
 
 <div data-product-carousel data-product-carousel-taxon-id='trending' class="mb-3"></div>
 
