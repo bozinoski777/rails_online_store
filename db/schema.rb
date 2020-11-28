@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_04_171844) do
+ActiveRecord::Schema.define(version: 2020_11_28_103704) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -223,6 +223,25 @@ ActiveRecord::Schema.define(version: 2020_11_04_171844) do
     t.text "preferences"
     t.index ["active"], name: "index_spree_gateways_on_active"
     t.index ["test_mode"], name: "index_spree_gateways_on_test_mode"
+  end
+
+  create_table "spree_home_section_products", id: :serial, force: :cascade do |t|
+    t.integer "product_id"
+    t.integer "home_section_id"
+    t.integer "position"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.index ["home_section_id"], name: "index_spree_home_section_products_on_home_section_id"
+    t.index ["position"], name: "index_spree_home_section_products_on_position"
+    t.index ["product_id"], name: "index_spree_home_section_products_on_product_id"
+  end
+
+  create_table "spree_home_sections", id: :serial, force: :cascade do |t|
+    t.string "title"
+    t.integer "position"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.index ["position"], name: "index_spree_home_sections_on_position"
   end
 
   create_table "spree_inventory_units", id: :serial, force: :cascade do |t|

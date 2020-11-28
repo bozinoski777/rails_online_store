@@ -35,7 +35,7 @@ gem 'spree_gateway', '~> 3.9.2'
 gem 'autoprefixer-rails'
 # gem 'execjs'
 gem 'mini_racer'
-
+gem 'spree_easy_homepage'
 
 # gem 'cloudinary', '~> 1.16.0'
 gem 'dotenv-rails'
