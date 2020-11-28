@@ -8,6 +8,5 @@ Rails.application.routes.draw do
   # We ask that you don't use the :as option here, as Spree relies on it being
   # the default of "spree".
   mount Spree::Core::Engine, at: '/'
-  get "/" => "home#index"
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
