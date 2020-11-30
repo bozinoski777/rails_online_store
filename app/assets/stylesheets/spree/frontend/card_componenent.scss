@@ -5,7 +5,8 @@
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
   transition: 0.1s;
   opacity: 0;
-  transform: translateY(0);
+  position: relative;
+  top: -10px;
 }
 .card-trip:hover {
   box-shadow: 0 0 15px rgba(0,0,0,0.2);

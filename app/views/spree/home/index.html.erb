@@ -137,16 +137,18 @@ $(document).ready(function() {
             if( bottom_of_window > bottom_of_object ){
 
                 $(this).animate({'opacity':'1'},1000);
+                $(this).animate({"top":"0px"},3000);
 
-                $(this).animate.transform("translateY(-20%)",1000);
 
             }
+
 
         });
 
     });
 
 });
+
 </script>
 
 <div data-product-carousel data-product-carousel-taxon-id='trending' class="mb-3"></div>
