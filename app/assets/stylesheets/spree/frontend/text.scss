@@ -5,7 +5,7 @@
 
 .homepage-taxon-box {
   border-radius: 4px;
-  border-radius: 25px;
+  border-radius: 15px;
   position: relative;
   transition: .2s;
 }
@@ -17,27 +17,27 @@
   box-shadow: 0px 0px 55px rgba(34, 35, 58, 0.5);
   display: flex;
   flex-direction: row;
-  border-radius: 25px;
+  border-radius: 15px;
   position: relative;
 }
 
 .homepage-bottom-box-inner {
   opacity: 0.5;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .homepage-bottom-box-inner:hover {
   opacity: 1;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .homepage-bottom-box {
-  border-radius: 25px;
+  border-radius: 15px;
     transition: .2s;
 }
 
 .homepage-bottom-box:hover {
-  border-radius: 25px;
+  border-radius: 15px;
   transition: .2s;
   box-shadow: 0px 0px 55px rgba(34, 35, 58, 0.5);
 }
